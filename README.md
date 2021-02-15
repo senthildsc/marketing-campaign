@@ -8,4 +8,4 @@ DataSet Citation:
 
 
 Methods:
-I will be using Logistic Regression for predicing the outcome,in the initial step will be performing the EDA to understand the data and see if any cleanups needs to be done.The EDA helps us to make the observation easy to decide.Later will be using sklearn model for the output.
+I will be using Logistic Regression for predicting the outcome,in the initial step will be performing the EDA to understand the data and see if any cleanups needs to be done.The EDA helps us to make the observation easy to decide.Later will be using sklearn model for the output.
