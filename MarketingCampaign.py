@@ -1,9 +1,7 @@
 '''
-File              : Project_3_MarketingCampaign.py
+File              : MarketingCampaign.py
 Name              : Senthilraj Srirangan
 Date              : 02/17/2021
-Assignment Number : 10.2 Project 3: Project Check-In/Milestone 2
-Course            : DSC 680 - Applied Data Science
 Exercise Details  :
     Predict whether the client will subscribe to a term deposit or not.
 '''
